@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://talhafakhar.com/wp-content/uploads/2023/11/talhafakhar_banner.jpeg" alt="Banner that represents Sameer Faisal">
+  <img src="WhatsApp Image 2025-03-27 at 7.31.14 PM.jpeg" alt="Banner that represents Sameer Faisal">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>
