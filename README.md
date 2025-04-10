@@ -89,7 +89,7 @@
 
 <p align="center">
   <!-- Gmail -->
-  <a href="sameerf737@gmail.com">
+  <a href="mailto:sameerf737@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <!-- WhatsApp -->
