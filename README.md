@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="WhatsApp Image 2025-03-27 at 7.31.14 PM.jpeg" alt="Banner that represents Sameer Faisal">
+  <img src="https://github.com/Sameer051022/Sameer051022/blob/main/Sameer_Banner.jpg" alt="Banner that represents Sameer Faisal">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>
