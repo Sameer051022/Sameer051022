@@ -79,7 +79,6 @@
 ---
 
 <h2 align="center">🌱 I’m currently learning...</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Sameer051022&show_icons=true&theme=radical" />
 <p align="center">
   <!-- Put things you are learning here -->
   <code>AI Development</code>,
@@ -110,7 +109,7 @@
 </p>
 <h3 align="center">About Me:</h3>
 <p align="center">
-  I’m a passionate Full Stack Developer with a deep focus on Artificial Intelligence and Machine Learning. With a strong command of <b>Python</b> and libraries like <b>NumPy, Pandas, Scikit-Learn, and Keras</b>, I build intelligent systems that analyze, learn, and improve.
+  I’m a passionate Full Stack Developer with a deep focus on Artificial Intelligence and Machine Learning. With a strong command of <b>Python</b> and libraries like <b>NumPy, Pandas, Scikit-Learn, and Matplotlib</b>, I build intelligent systems that analyze, learn, and improve.
 </p>
 
 <p align="center">
