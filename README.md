@@ -49,20 +49,26 @@
 
 <h2 align="center">🔥 Crafting AI-Driven Solutions 🔥</h2>
 <p align="center">
-  As a driven <b>AI Developer Intern</b>, my journey to the cutting-edge tech scene has involved pioneering AI applications. I focus on transformative projects that leverage machine learning to solve real-world challenges.
+  I specialize in building intelligent systems that bridge the gap between data and decisions. My work spans full-stack development integrated with machine learning and natural language processing (NLP), delivering real-world impact through AI-driven applications.
 </p>
 
 <p align="center">
-  Recently, I enhanced my practical skills as an <b>AI Developer Intern at Educist Testing Services</b>, applying AI technologies.
+  Previously, I worked as a <b>Full Stack AI Developer Intern</b> at <b>Educist Testing Services</b>, where I applied machine learning and backend integration to enhance educational platforms. I also served as a <b>Full Stack MERN Developer with AI Integration</b> at <b>Meraks Consultants</b>, developing web-based solutions powered by smart data pipelines.
+</p>
+
+<p align="center">
+  I’m currently offering my services as a <b>freelancer</b>, focusing on scalable AI, ML, and NLP solutions that help clients automate processes, gain insights, and drive innovation.
 </p>
 
 ---
 
 <h3 align="center">🚀 I Specialize In</h3>
 <p align="center">
-  Developing cutting-edge AI solutions and machine learning models using technologies like <b>Python, TensorFlow, PyTorch,</b> and <b>Scikit-Learn</b>. My expertise extends to implementing NLP techniques and predictive analytics to derive actionable insights from data.
+  Designing and developing full-stack web applications enriched with intelligent AI capabilities. I specialize in integrating <b>Machine Learning</b> and <b>NLP</b> models into modern web platforms using <b>Python</b>, <b>TensorFlow</b>, <b>PyTorch</b>, and <b>Scikit-Learn</b>.  
 </p>
-
+<p align="center">
+  With hands-on experience in the <b>MERN stack</b> and backend technologies like <b>Django</b>, I build scalable, data-driven systems that automate tasks, generate insights, and power next-gen digital products.
+</p>
 
 <p align="center">
   <a href="https://github.com/Sameer051022?tab=repositories">
@@ -73,6 +79,7 @@
 ---
 
 <h2 align="center">🌱 I’m currently learning...</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Sameer051022&show_icons=true&theme=radical" />
 <p align="center">
   <!-- Put things you are learning here -->
   <code>AI Development</code>,
@@ -103,15 +110,20 @@
 </p>
 <h3 align="center">About Me:</h3>
 <p align="center">
-  I am an AI Developer Intern, deeply engaged in the dynamic intersection of AI and machine learning. With a focus on real-world applications of <b>Python</b> and its libraries like <b>NumPy, Pandas,</b> and <b>Scipy</b>, I delve into complex problems from prompt engineering to sentiment analysis. I specialize in developing robust ML models and advanced NLP techniques, using these to extract meaningful insights from large datasets.
+  I’m a passionate Full Stack Developer with a deep focus on Artificial Intelligence and Machine Learning. With a strong command of <b>Python</b> and libraries like <b>NumPy, Pandas, Scikit-Learn, and Keras</b>, I build intelligent systems that analyze, learn, and improve.
 </p>
 
 <p align="center">
-  Currently, I am enhancing my skills more as an <b>AI Developer at DevWave</b>, applying advanced AI methodologies to develop software solutions that are not only effective but also scalable.
+  My journey includes working as a <b>Full Stack AI Developer Intern</b> at <b>Educist Testing Services</b>, and as a <b>Full Stack MERN Developer with AI Integration</b> at <b>Meraks Consultants</b>. In both roles, I applied AI to real-world platforms, improving decision-making and performance.
 </p>
 
 <p align="center">
-  I'm committed to leveraging AI to not only solve complex challenges but also to transform how we understand and interact with data.
+  Currently, I’m working as a <b>freelancer</b> offering AI-integrated full-stack solutions that include Machine Learning, Deep Learning, and Natural Language Processing.
+</p>
+
+<p align="center">
+  I aim to develop software that’s not only intelligent but also accessible, scalable, and impactful.
   <br>
   <span style="font-size:2em;"><strong>Transforming data into decisions, one model at a time. 🚀</strong></span>
 </p>
+
