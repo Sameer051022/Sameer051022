@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Sameer051022/Sameer051022/blob/main/Sameer_Banner.jpg" alt="Banner that represents Sameer Faisal">
+  <img src="https://github.com/Sameer051022/Sameer051022/blob/main/New banner.jpeg" alt="Banner that represents Sameer Faisal">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>
