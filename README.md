@@ -75,9 +75,9 @@
 
 <h2 align="center">🌱 I’m currently learning...</h2>
 <p align="center">
+  <code>Gen AI</code>
   <code>Agentic AI</code>,
   <code>Advanced MERN Patterns</code>,
-  <code>WordPress Plugin Dev</code>
 </p>
 
 ---
