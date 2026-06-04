@@ -24,12 +24,12 @@ More recently, the focus has expanded into **automation using n8n** for building
 
 ## 🚀 What I Do
 
-- 🤖 **AI & Chatbot Development** — Conversational AI with structured dialogue flows, intent recognition, entity extraction, and sentiment analysis
-- ⚡ **n8n Workflow Automation** — Automated pipelines connecting APIs, triggering AI-based actions, eliminating manual steps across repetitive operational tasks
-- 🧠 **Prompt Engineering** — Prompt design, testing, and iteration for LLMs and chatbot systems (OpenAI API, conversational AI platforms)
-- 🌐 **Frontend & Vibe Coding** — HTML, CSS, JavaScript, Bootstrap; rapid website and portfolio builds
-- 🔬 **ML & NLP** — Model implementation (classification, regression), NLP preprocessing, sentiment analysis, text classification, computer vision
-- 🐍 **Backend** — Python, REST APIs, third-party platform integrations
+-  **AI & Chatbot Development** — Conversational AI with structured dialogue flows, intent recognition, entity extraction, and sentiment analysis
+-  **n8n Workflow Automation** — Automated pipelines connecting APIs, triggering AI-based actions, eliminating manual steps across repetitive operational tasks
+-  **Prompt Engineering** — Prompt design, testing, and iteration for LLMs and chatbot systems (OpenAI API, conversational AI platforms)
+-  **Frontend & Vibe Coding** — HTML, CSS, JavaScript, Bootstrap; rapid website and portfolio builds
+-  **ML & NLP** — Model implementation (classification, regression), NLP preprocessing, sentiment analysis, text classification, computer vision
+-  **Backend** — Python, REST APIs, third-party platform integrations
 
 ---
 
