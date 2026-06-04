@@ -1,110 +1,126 @@
-<h1 align="center">👋 Hello, I'm Sameer Faisal!</h1>
-<h3 align="center">🌐 MERN, WordPress & AI Developer | Chatbots | Gen AI | Agentic AI</h3>
-<h4 align="center">From Lahore 🇵🇰</h4>
+<h1 align="center">👋 Hi, I'm Sameer Faisal!</h1>
+<h3 align="center">🤖 AI Developer | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer | Open to Freelance</h3>
+<h4 align="center">Lahore, Punjab, Pakistan 🇵🇰</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-faisal-b62697233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Faisal-blue?style=for-the-badge&logo=linkedin" alt="Sameer LinkedIn">
+  <a href="https://www.linkedin.com/in/sameer-faisal-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Faisal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/Sameer051022/Sameer051022/blob/main/new _banner_cropped.jpeg" alt="Banner that represents Sameer Faisal">
-</div>
-
-<h2 align="center">💼 Tech Toolbox 🧰</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gen_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-5555aa?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-007FFF?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deep_Learning-6DB33F?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-E34F26?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN_Stack-13aa52?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">🔥 What I Do</h2>
-<p align="center">
-  I design smart, scalable systems by combining MERN stack development, WordPress solutions, and advanced AI technologies.  
-  My work includes custom chatbots, full-stack applications, automation workflows, and Gen AI powered tools.
-</p>
-
-<p align="center">
-  I previously worked as:
-  <br>
-  <b>AI Developer – Educist Testing Services</b>
-  <br>
-  <b>MERN Developer with AI Integration – Meraks Consultants</b>
-  <br>
-  I’m now working as a <b>freelancer</b>, delivering AI-powered web and automation solutions for global clients.
-</p>
-
----
-
-<h3 align="center">🚀 I Specialize In</h3>
-<p align="center">
-  • MERN & WordPress development <br>
-  • Custom AI chatbots with NLP & vector search <br>
-  • Gen AI and Agentic AI automations <br>
-  • Machine Learning & prediction models <br>
-  • Document Q&A assistants using OpenAI & LangChain <br>
-  • Full-stack dashboards, CMS, and SaaS apps  
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sameer051022?tab=repositories">
-    <img src="https://img.shields.io/badge/Check_Out-My_Repositories-green?style=for-the-badge" alt="Repositories Badge">
-  </a>
-</p>
-
----
-
-<h2 align="center">🌱 I’m currently improving...</h2>
-<p align="center">
-  <code>Gen AI</code>
-  <code>Agentic AI</code>,
-  <code>Advanced MERN Patterns</code>,
-</p>
-
----
-
-<h2 align="center">🤝 Let's Connect</h2>
-<p align="center">
-  Whether you want to collaborate or need help with a project, I’m always open to new opportunities.
-</p>
-
-<p align="center">
   <a href="mailto:sameerf737@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-sameerf737%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://wa.me/+923370413873" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01f633fc8f9afbc419" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sameer051022&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  I’m a full-stack and AI developer with hands-on experience in MERN, WordPress, Python, and automation.  
-  I focus on building AI-powered solutions that are scalable, accessible, and meaningful for users.
-</p>
+---
+
+## 💼 About Me
+
+A software engineer with a solid foundation in **AI development**, **machine learning**, and **natural language processing**, bringing practical experience across the full product lifecycle — from designing intelligent systems and integrating NLP-powered features, to managing client relationships and coordinating project delivery across education, consulting, and customer experience industries.
+
+More recently, the focus has expanded into **automation using n8n** for building pipelines that connect APIs and trigger AI-driven actions, **prompt engineering** to shape and improve model outputs, and **vibe coding** for rapid polished web builds. Currently delivering freelance AI services that are practical, results-driven, and built around what clients actually need.
+
+---
+
+## 🚀 What I Do
+
+- 🤖 **AI & Chatbot Development** — Conversational AI with structured dialogue flows, intent recognition, entity extraction, and sentiment analysis
+- ⚡ **n8n Workflow Automation** — Automated pipelines connecting APIs, triggering AI-based actions, eliminating manual steps across repetitive operational tasks
+- 🧠 **Prompt Engineering** — Prompt design, testing, and iteration for LLMs and chatbot systems (OpenAI API, conversational AI platforms)
+- 🌐 **Frontend & Vibe Coding** — HTML, CSS, JavaScript, Bootstrap; rapid website and portfolio builds
+- 🔬 **ML & NLP** — Model implementation (classification, regression), NLP preprocessing, sentiment analysis, text classification, computer vision
+- 🐍 **Backend** — Python, REST APIs, third-party platform integrations
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+|---|---|
+| **AI & ML** | Scikit-learn, NLP, Sentiment Analysis, Text Classification, Computer Vision |
+| **Automation** | n8n, API Integrations, AI-triggered pipelines, Event-driven workflows |
+| **Chatbots** | Rasa, OpenAI API, LangChain, Intent Recognition, Dialogue Flow |
+| **Prompt Engineering** | OpenAI API, LLM fine-tuning, Conversational AI platforms |
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
+| **Backend** | Python, Django, Flask, REST APIs |
+| **Libraries** | NumPy, Pandas, SciPy, Matplotlib, Scikit-learn |
+| **Tools** | Google Colab, Jupyter Notebook, VS Code, MS Office, CorelDRAW |
+| **Languages** | Python, C++, JavaScript |
+
+---
+
+## 📌 Featured Projects
+
+### 🔄 [Google Customer Feedback Automation (n8n)](https://github.com/Sameer051022/Google-Customer-Feedback-Automation)
+> Fully automated n8n workflow — checks customer feedback sentiment, sends discount emails for positive responses, logs negative feedback to Google Sheets. Zero manual entry.
+
+### 🤖 [RasaGPT AI Customer Support Chatbot](https://github.com/Sameer051022/RasaGPT-AI-Powered-Customer-Support-Chatbot)
+> AI-powered support chatbot combining Rasa's dialogue management with OpenAI's GPT for intelligent, context-aware conversations across platforms.
+
+### 📄 [PDF AI Assistant](https://github.com/Sameer051022/PDF-AI-Assisstant)
+> Web app using advanced NLP to extract and analyze information from PDF documents, providing context-aware answers with document location references.
+
+### 🎨 [CartoonifyCV App](https://github.com/Sameer051022/CartoonifyCV-App)
+> Computer vision application transforming real-world images into stylized formats: cartoon, pencil sketch, watercolour, and colour sketch effects.
+
+### 🧪 [Prompt Engineering Exploration](https://github.com/Sameer051022/Prompt_Engineering_Exploration)
+> Practical study of prompting techniques in Python, with reusable examples for improving AI model responses across different tasks.
+
+### 📊 [Topic Modeling & Sentiment Analysis](https://github.com/Sameer051022/Topic_Modeling_and_Sentiment_Analysis)
+> In-depth NLP project featuring topic modeling and sentiment analysis on diverse datasets using Python's NLP libraries.
+
+---
+
+## 💼 Experience
+
+**Chatbot Developer & Chat Support Representative** @ Xaibridge *(Jul 2025 – Present · Lahore, Hybrid)*
+- Building and deploying conversational AI chatbots with structured dialogue flows, intent recognition, entity extraction, and sentiment analysis
+- Automating support and operational workflows using n8n — connecting APIs, setting up event-driven triggers, and reducing manual handling
+- Designing prompt engineering strategies to fine-tune chatbot responses and improve model accuracy
+- Managing real-time client communication and integrating bots with REST APIs and third-party platforms
+
+**Full-Stack Developer (Frontend & AI) / Business Development** @ Meraks Consultants *(Mar 2025 – May 2025 · Lahore, On-Site)*
+- Developed scalable web applications using HTML, CSS, JavaScript, Bootstrap including rapid prototyping via vibe coding
+- Integrated NLP & ML features (sentiment analysis, text classification) in MERN stack applications via Python and REST APIs
+- Supported business development by researching market trends and contributing to client proposals
+
+**AI Solutions Developer** @ Educist Testing Services *(Mar 2024 – Feb 2025 · Lahore, On-Site)*
+- Led end-to-end development of an AI-powered educational platform with NLP-driven assessments and personalized learning features
+- Applied prompt engineering techniques to shape AI-generated content and improve assessment output quality
+- Owned the full development lifecycle from initial scoping through deployment and ongoing maintenance
+
+**ML Engineer** @ EvaluateHub *(Sep 2023 – Feb 2024 · Lahore, Remote)*
+- Built and integrated regression and classification models into MERN stack applications
+- Developed NLP-based features and data visualizations enhancing application intelligence and user experience
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering** — GPA: 3.20
+University of Management and Technology, Lahore *(Sep 2021 – 2025)*
+
+---
+
+## 📜 Certificates
+
+- Developing AI Systems with the OpenAI API — *DataCamp*
+- Introduction to API in Python — *DataCamp*
+- English Immersion Certificate
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <span style="font-size:2em;"><strong>Building intelligent solutions, one project at a time. 🚀</strong></span>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer051022&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer051022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+Open to **freelance AI projects**, **n8n automation builds**, and **collaboration** opportunities. Whether you need a smart chatbot, a workflow automation, or a custom AI solution — let's talk.
+
+📩 **sameerf737@gmail.com** | 📞 03370413873 | [LinkedIn](https://www.linkedin.com/in/sameer-faisal-/)
