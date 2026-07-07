@@ -131,12 +131,3 @@ What I Offer:
 ### 📊 [Topic Modeling & Sentiment Analysis](https://github.com/Sameer051022/Topic_Modeling_and_Sentiment_Analysis)
 > In-depth NLP project featuring topic modeling and sentiment analysis on diverse datasets using Python's NLP libraries.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer051022&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer051022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
