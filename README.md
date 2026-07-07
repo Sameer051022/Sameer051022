@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sameer Faisal!</h1>
 <h3 align="center">🤖 Full Stack & Ai Automation Engineer | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer </h3>
-<h4 align="center">Lahore, Punjab, Pakistan 🇵🇰</h4>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-faisal-/" target="_blank">
