@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sameer Faisal!</h1>
-<h3 align="center">🤖 AI Developer | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer | Open to Freelance</h3>
+<h3 align="center">🤖 Full Stack & Ai Automation Engineer | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer </h3>
 <h4 align="center">Lahore, Punjab, Pakistan 🇵🇰</h4>
 
 <p align="center">
@@ -16,9 +16,33 @@
 
 ## 💼 About Me
 
-A software engineer with a solid foundation in **AI development**, **machine learning**, and **natural language processing**, bringing practical experience across the full product lifecycle — from designing intelligent systems and integrating NLP-powered features, to managing client relationships and coordinating project delivery across education, consulting, and customer experience industries.
+Hello! I'm Sameer Faisal, a Senior Full Stack & AI Automation Engineer.
 
-More recently, the focus has expanded into **automation using n8n** for building pipelines that connect APIs and trigger AI-driven actions, **prompt engineering** to shape and improve model outputs, and **vibe coding** for rapid polished web builds. Currently delivering freelance AI services that are practical, results-driven, and built around what clients actually need.
+With 6+ years of experience building modern web applications and AI-powered solutions. My expertise spans frontend and backend development, Conversational AI, NLP, workflow automation with n8n, and prompt engineering. I enjoy bridging intelligent systems with software development to create practical, scalable solutions that solve real business problems.
+
+My Journey:
+
+My work combines full-stack development, machine learning(ML), natural language processing(NLP), and . Over the past several years, I've worked across industries including education, consulting, and customer experience, designing AI-driven systems, developing NLP-powered features, building conversational chatbots, and integrating AI into production-ready web applications.
+
+More recently, I've been developing modern frontend and backend applications while using n8n to automate workflows, connect APIs, and trigger AI-powered actions. I apply prompt engineering to improve LLM performance and use vibe coding tools to rapidly deliver polished, high-quality web applications. Alongside my technical expertise, I have extensive experience communicating directly with clients, gathering requirements, managing expectations, and delivering projects from concept to completion.
+
+
+What I Offer:
+1. AI-powered web applications and intelligent features
+2. Conversational AI and chatbot development
+3. NLP integration and text intelligence solutions
+4. Workflow automation using n8n
+5. Prompt engineering and LLM optimization
+
+Technical Toolkit:
+Front-End Development: React.js, Next.js, Vue.js, TypeScript, Redux Toolkit, Material UI, TailwindCSS
+Back-End Development: MERN Stack, Node.js, Express.js, Python, REST APIs, JavaScript, HTML, CSS, Bootstrap
+AI and Automation: OpenAI API, n8n, Prompt Engineering, Sentiment Analysis, NLP
+Specialties: AI-Integrated Web Applications, Conversational AI & Chatbots, Workflow Automation, Vibe Coding, AI-Powered Product Development
+
+
+Looking Ahead:
+I'm always interested in collaborating with businesses, startups, and teams that want to combine AI with modern web technologies to build impactful products. If you're looking for an engineer who can turn AI concepts into reliable, production-ready solutions, I'd be happy to connect and discuss how I can help.
 
 ---
 
@@ -68,45 +92,6 @@ More recently, the focus has expanded into **automation using n8n** for building
 
 ### 📊 [Topic Modeling & Sentiment Analysis](https://github.com/Sameer051022/Topic_Modeling_and_Sentiment_Analysis)
 > In-depth NLP project featuring topic modeling and sentiment analysis on diverse datasets using Python's NLP libraries.
-
----
-
-## 💼 Experience
-
-**Chatbot Developer & Chat Support Representative** @ Xaibridge *(Jul 2025 – Present · Lahore, Hybrid)*
-- Building and deploying conversational AI chatbots with structured dialogue flows, intent recognition, entity extraction, and sentiment analysis
-- Automating support and operational workflows using n8n — connecting APIs, setting up event-driven triggers, and reducing manual handling
-- Designing prompt engineering strategies to fine-tune chatbot responses and improve model accuracy
-- Managing real-time client communication and integrating bots with REST APIs and third-party platforms
-
-**Full-Stack Developer (Frontend & AI) / Business Development** @ Meraks Consultants *(Mar 2025 – May 2025 · Lahore, On-Site)*
-- Developed scalable web applications using HTML, CSS, JavaScript, Bootstrap including rapid prototyping via vibe coding
-- Integrated NLP & ML features (sentiment analysis, text classification) in MERN stack applications via Python and REST APIs
-- Supported business development by researching market trends and contributing to client proposals
-
-**AI Solutions Developer** @ Educist Testing Services *(Mar 2024 – Feb 2025 · Lahore, On-Site)*
-- Led end-to-end development of an AI-powered educational platform with NLP-driven assessments and personalized learning features
-- Applied prompt engineering techniques to shape AI-generated content and improve assessment output quality
-- Owned the full development lifecycle from initial scoping through deployment and ongoing maintenance
-
-**ML Engineer** @ EvaluateHub *(Sep 2023 – Feb 2024 · Lahore, Remote)*
-- Built and integrated regression and classification models into MERN stack applications
-- Developed NLP-based features and data visualizations enhancing application intelligence and user experience
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Software Engineering** — GPA: 3.20
-University of Management and Technology, Lahore *(Sep 2021 – 2025)*
-
----
-
-## 📜 Certificates
-
-- Developing AI Systems with the OpenAI API — *DataCamp*
-- Introduction to API in Python — *DataCamp*
-- English Immersion Certificate
 
 ---
 
