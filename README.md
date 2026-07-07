@@ -116,6 +116,9 @@ What I Offer:
 
 ## 📌 Featured Projects
 
+### 📄 [Inventory-Dashboard-System-Web-App](https://github.com/Sameer051022/Inventory-Dashboard-System-Web-App)
+> Web-based inventory management app built with Django, featuring real-time stock tracking and admin dashboard.
+
 ### 🤝 [Personal-Assistant-n8n](https://github.com/Sameer051022/Personal-Assistant-n8n)
 > AI-powered Personal Assistant built with Streamlit & n8n -> manage calendar, emails, tasks, notes, and expenses via a conversational UI
 
