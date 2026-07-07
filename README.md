@@ -116,7 +116,7 @@ What I Offer:
 
 ## 📌 Featured Projects
 
-### 🔄 [Personal-Assistant-n8n](https://github.com/Sameer051022/Personal-Assistant-n8n)
+### 🤝 [Personal-Assistant-n8n](https://github.com/Sameer051022/Personal-Assistant-n8n)
 > AI-powered Personal Assistant built with Streamlit & n8n -> manage calendar, emails, tasks, notes, and expenses via a conversational UI
 
 ### 🔄 [Google Customer Feedback Automation (n8n)](https://github.com/Sameer051022/Google-Customer-Feedback-Automation)
