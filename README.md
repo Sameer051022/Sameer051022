@@ -116,7 +116,7 @@ What I Offer:
 
 ## 📌 Featured Projects
 
-### 📄 [Inventory-Dashboard-System-Web-App](https://github.com/Sameer051022/Inventory-Dashboard-System-Web-App)
+### 🗂️ [Inventory-Dashboard-System-Web-App](https://github.com/Sameer051022/Inventory-Dashboard-System-Web-App)
 > Web-based inventory management app built with Django, featuring real-time stock tracking and admin dashboard.
 
 ### 🤝 [Personal-Assistant-n8n](https://github.com/Sameer051022/Personal-Assistant-n8n)
