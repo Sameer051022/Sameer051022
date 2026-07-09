@@ -125,7 +125,7 @@ What I Offer:
 ### 🤝 [Personal-Assistant-n8n](https://github.com/Sameer051022/Personal-Assistant-n8n)
 > AI-powered Personal Assistant built with Streamlit & n8n -> manage calendar, emails, tasks, notes, and expenses via a conversational UI
 
-### 🔄 [Google Customer Feedback Automation (n8n)](https://github.com/Sameer051022/Google-Customer-Feedback-Automation)
+### 🔄 [Google Customer Feedback Automation (n8n)](https://github.com/Sameer051022/Google-Customer-Feedback-Automation-n8n)
 > Fully automated n8n workflow — checks customer feedback sentiment, sends discount emails for positive responses, logs negative feedback to Google Sheets. Zero manual entry.
 
 ### 🤖 [RasaGPT AI Customer Support Chatbot](https://github.com/Sameer051022/RasaGPT-AI-Powered-Customer-Support-Chatbot)
