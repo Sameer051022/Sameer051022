@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sameer Faisal!</h1>
-<h3 align="center">🤖 Full Stack & Ai Automation Engineer | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer </h3>
+<h3 align="center">🤖 Full Stack & AI Engineer with 4+ years | Python | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer | RAG | LLM </h3>
 
 
 <p align="center">
