@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sameer Faisal!</h1>
-<h3 align="center">🤖 Full Stack & AI Engineer with 4+ years | Python | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer | RAG | LLM </h3>
+<h3 align="center">🤖 Full Stack & AI Engineer with 7+ years | Python | Chatbot Builder | NLP & Automation (n8n) | Prompt Engineer | RAG | LLM </h3>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 Hello! I'm Sameer Faisal, a Senior Full Stack & AI Automation Engineer.
 
-With 4+ years of experience in full-stack web development and 1+ year as a dedicated AI Engineer, I build modern web applications and intelligent AI-powered solutions. My expertise includes frontend and backend development, LLMs, RAG, Conversational AI, NLP, workflow automation with n8n, and prompt engineering. I enjoy combining AI with software development to create scalable, practical solutions that solve real business challenges and improve user experiences.
+With 6+ years of experience in full-stack web development and 1+ year as a dedicated AI Engineer, I build modern web applications and intelligent AI-powered solutions. My expertise includes frontend and backend development, LLMs, RAG, Conversational AI, NLP, workflow automation with n8n, and prompt engineering. I enjoy combining AI with software development to create scalable, practical solutions that solve real business challenges and improve user experiences.
 
 What I Offer:
 1. AI-powered web applications and intelligent features
